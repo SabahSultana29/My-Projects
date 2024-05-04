@@ -1,4 +1,4 @@
-# My-Projects
-These are my first front end development projects.
+# Sportify Clone
+Ths is my first front end development project
 <br>
 Author - Sabah Sultana
